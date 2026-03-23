@@ -8,7 +8,7 @@
 <h3 align="left"> 👨‍💻 백엔드 개발 포트폴리오 </h3>
 <ul>
   <li>
-    외부 의존성(데이터베이스, 외부 API)에서 벗어난 독립적 개발
+    외부 의존성(데이터베이스, 외부 API)에 독립적인 구조 설계
     <ul>
       <li><a href="https://github.com/dustjd042/UnitTest-board-service">UnitTest-board-service</a></li>
     </ul>
