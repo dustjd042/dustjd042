@@ -16,4 +16,9 @@
 </ul>
 <br>
 <h3 align="left"> 🤖 바이브 코딩 서비스 (프론트엔드 AI 개발자와 협업) </h3>
+<ul>
+  <li><a href="http://simon-755095766002-ap-northeast-2-an.s3-website.ap-northeast-2.amazonaws.com/">사이먼 효과 게임</a></li>
+    <li><a href="http://color-755095766002-ap-northeast-2-an.s3-website.ap-northeast-2.amazonaws.com">스트룹 효과 게임</a></li>
+    <li><a href="http://car-755095766002-ap-northeast-2-an.s3-website.ap-northeast-2.amazonaws.com">자동차 관찰 게임</a></li>
+</ul>
 <br>
