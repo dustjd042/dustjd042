@@ -10,7 +10,7 @@
   <li>
     외부 의존성(데이터베이스, 외부 API)에 독립적인 단위 테스트
     <ul>
-      <li><a href="https://github.com/dustjd042/UnitTest-board-service">UnitTest-board-service</a></li>
+      <li><a href="https://github.com/dustjd042/unitTest-board-service">unitTest-board-service</a></li>
     </ul>
   </li>
 </ul>
