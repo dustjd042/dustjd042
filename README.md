@@ -1,9 +1,5 @@
 ## 👋 안녕하세요. 백엔드 개발자 왕연성입니다.
 
-![테스트](https://artsandculture.google.com/asset/untitled-white-pink-and-mustard/mgHle1xJPDDFGQ?ms=%7B%22x%22%3A0.5%2C%22y%22%3A0.5%2C%22z%22%3A10.139198738954518%2C%22size%22%3A%7B%22width%22%3A0.8746334681496462%2C%22height%22%3A1.7935556303627846%7D%7D)
-
-<br>
-
 ### [💻 Computer Science](https://github.com/dustjd042/computer-science)
 <br>
 
