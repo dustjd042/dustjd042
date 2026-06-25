@@ -1,5 +1,7 @@
 ## 👋 안녕하세요. 백엔드 개발자 왕연성입니다.
 
+### [💻 연성 블로그](https://github.com/dustjd042/computer-science)
+
 ### [💻 Computer Science](https://github.com/dustjd042/computer-science)
 <br>
 
