@@ -1,4 +1,4 @@
-## 👋 안녕하세요. 백엔드 개발자 왕연성입니다.
+## 👋 안녕하세요. 개발자 왕연성입니다.
 
 ### [💻 Computer Science](https://github.com/dustjd042/computer-science)
 <br>
