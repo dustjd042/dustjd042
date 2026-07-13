@@ -20,7 +20,7 @@
 ### 🧑‍💻 Project
 - [외부 의존성 독립적인 단위 테스트](https://github.com/dustjd042/independence-unit-test)
 - [도커 없이 컨테이너 만들기](https://github.com/dustjd042/container-without-docker)
-- [Spring AI로 구현한 OpenAI 연동 의료 도메인 AI 백엔드](https://github.com/dustjd042/medical-ai)
+- [Spring AI 통해 구현한 OpenAI 연동 의료 도메인 백엔드](https://github.com/dustjd042/medical-ai)
 <br>
 
 - 🤡 **패러디**
