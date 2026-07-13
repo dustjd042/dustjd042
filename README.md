@@ -14,7 +14,6 @@
 - [MySQL](https://github.com/dustjd042/mysql)
 - [Kafka](https://github.com/dustjd042/kafka)
 - [fluentbit](https://github.com/dustjd042/fluentbit)
-- [OpenStack](https://github.com/dustjd042/openstack)
 <br>
 
 ### 🧑‍💻 Project
