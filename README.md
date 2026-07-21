@@ -5,8 +5,6 @@
 
 ### ⚒️ Development
 - [Java](https://github.com/dustjd042/java)
-  - [Spring Boot](https://github.com/dustjd042/spring-boot)
-  - [JPA](https://github.com/dustjd042/jpa)
 - [PHP](https://github.com/dustjd042/php)
 <br>
 
@@ -14,11 +12,13 @@
 - [MySQL](https://github.com/dustjd042/mysql)
 - [Kafka](https://github.com/dustjd042/kafka)
 - [fluentbit](https://github.com/dustjd042/fluentbit)
+- [OpenStack](https://github.com/dustjd042/openstack)
 <br>
 
 ### 🧑‍💻 Project
 - [외부 의존성 독립적인 단위 테스트](https://github.com/dustjd042/independence-unit-test)
 - [도커 없이 컨테이너 만들기](https://github.com/dustjd042/container-without-docker)
+- [OpenStack을 이용한 클라우드 시스템 구축](https://github.com/dustjd042/openstack-cloud-lab)
 - [Spring AI 통해 구현한 OpenAI 연동 의료 도메인 백엔드](https://github.com/dustjd042/medical-ai)
 <br>
 
